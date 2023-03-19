@@ -1,0 +1,6 @@
+"id","password","last_login","is_superuser","username","last_name","email","is_staff","is_active","date_joined","first_name"
+"1","pbkdf2_sha256$390000$0mQvlo0atVl5CNvRLzWUNM$YtBtL2fKsCkKlLkJOGlUFiDb3UKUEfWgDTE3MxgWWgU=","","0","MoldovanRaduOctavian3456","","abra@yahoo.com","0","1","2022-12-20",""
+"2","pbkdf2_sha256$390000$q1iN089akwkpJcoC2Eq4Nu$y/he1i70FHEW3skFYa87dj7KAgiz3Wxwv6aqI6wzLpk=","","0","MoldovanRaduOctavian","","abra@yahoo.com","0","1","2022-12-20",""
+"3","pbkdf2_sha256$390000$p2dE7YeT1fAcgMtGIKcjiG$NmIcnH8LBrRk9lFSBMN+oPz8F7TGY3rTRkqIJ1fhWr4=","","0","moldovanoctavialaura","","moldovanoctavialaura@yahoo.com","0","1","2022-12-20",""
+"4","pbkdf2_sha256$390000$za1q7SIuCWmJXfAJ9hquIW$KyG8ogEJfMyZZh2Ekv43moEzlhJSUTzgTmA8Ij8jCVo=","","0","pcraciun2001","","petrucraciun2001@yahoo.com","0","1","2022-12-20",""
+"5","pbkdf2_sha256$390000$DQbQmqvxeSNB0l1P6zFUgi$wXc0Up+lGfE9OIuQIxG48nqSMrBaybt0qoSHktlVRz0=","2022-12-20","0","TestAccount22","","testaccount@yahoo.com","0","1","2022-12-20",""

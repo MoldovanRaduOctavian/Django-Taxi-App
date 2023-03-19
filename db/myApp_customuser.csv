@@ -1,0 +1,6 @@
+"id","password","last_login","is_superuser","username","first_name","last_name","email","is_staff","is_active","date_joined","firstName","lastName","isClient","isDriver","lat","lng"
+"2","pbkdf2_sha256$390000$v3wDISKJ8GEP3wGTBi6c3Z$ZEhcbYbL0BLFaawIr9nl+GjMxoE7rOH/mC77syrGWso=","2023-01-16","0","MareleCoian","","","moldovanoctavialaura@yahoo.com","0","1","2022-12-21","Radu Octavian Tudor","Moldovan","1","0","46.7657","23.5943"
+"3","pbkdf2_sha256$390000$OI7YaRoMUkzCcHR8RycTi7$cHRxSWMzigQA+EMnrcttDB4HBT2o+XpGFNJxG0u1UlU=","2023-01-16","1","admin","","","admin@yahoo.com","1","1","2022-12-22","","","0","0","0.0","0.0"
+"6","pbkdf2_sha256$390000$9ozGJd6qU2IB8Dy7BLdouT$UBUI4uqBMg5kOGLxiqhlbfTC0TYLI85A1gPqk6xCBvk=","2023-01-16","0","MareleSofer1","","","abra@yahoo.com","0","1","","Ioan","Farkas","0","1","46.7483484","23.587838"
+"7","pbkdf2_sha256$390000$6UZHyCdKjtZACL3tSpYGU3$3inqRf3jZiabwgt3gupWkW2B9AuxymulB/+jrSqM1co=","2022-12-27","0","TestRider","","","moldovanraduoctavian22@yahoo.com","0","1","2022-12-26","Ngolo","Kante","1","0","46.5428","24.5692"
+"8","pbkdf2_sha256$390000$cLUjOw3SosnTCBZAFhwWH7$7bMRFXqPLTqMyyMi+1S0jaQ4Ke6p1ikDm4Vmfr+JTqs=","2023-01-13","0","RiderTest22","","","ridertest22@yahoo.com","0","1","2023-01-13","Ion","Ionescu","1","0","46.7657","23.5943"

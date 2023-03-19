@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"messageStatus","INTEGER","1","1","0"
+"messageData","STRING","39","0","0"
+"messageReceiver_id","INTEGER","1","1","0"
+"messageSender_id","INTEGER","1","1","0"
+"tripReference_id","STRING","32","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"carModel","STRING","7","0","0"
+"registrationNumber","STRING","9","0","0"
+"numberOfReviews","INTEGER","2","2","0"
+"grade","DECIMAL","3","1","1"
+"driver_id","INTEGER","1","1","0"

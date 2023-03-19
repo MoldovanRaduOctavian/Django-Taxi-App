@@ -1,0 +1,7 @@
+"id","destination","latClient","lngClient","tripTime","details","status","driver_id","latDestination","lngDestination","rider_id"
+"c0fb860ae6ee4ecfb2dad13213b879a2","Cheile Gradistei Resort Fundata, Fundata, Romania","46.7657","23.5943","2023-01-13","La munte","0","","45.453207","25.2997756","8"
+"ec8631927f634d0486882066895aee70","Kaufland Cluj-Manastur, Strada Câmpului, Cluj-Napoca, Romania","46.7657","23.5943","2023-01-13","Cumparaturi","5","2","46.75927","23.5643016","8"
+"3a71868f3bf8448c835f78a1d72b6da9","Viva City Residence Bloc 1, Aleea Valeriu Bologa, Cluj-Napoca, Romania","46.7657","23.5943","2023-01-16","La Oltean acasa","0","2","46.7722938","23.6302032","2"
+"f08f7cd31607489a803316f6743f5c0a","18 Gym, Strada Nicolae Pascaly, Cluj-Napoca, Romania","46.7657","23.5943","2023-01-16","La sala","0","2","46.7703301","23.6186867","2"
+"0e16157f2d034f779efe135694de146c","Transilvania Motor Ring, Cerghid, Romania","46.7657","23.5943","2023-01-16","La curse","0","2","46.4354286","24.4266719","2"
+"6f7f1b8a74464d009046a38aa3806fca","Arte Plastice, Cluj-Napoca, Romania","46.7657","23.5943","2023-01-16","In statia de bus","5","2","46.778912","23.617318","2"
